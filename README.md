@@ -1,5 +1,5 @@
 # Danteov-pakao
-Ovo je projekat u drugom polugodištu 4. razreda Šabačke gimnazije iz predmeta web programiranje.
+Ovo je projekat u drugom polugodištu 4. razreda Šabačke gimnazije iz predmeta web programiranje. 
 
 Imali smo za zadatak da napravimo html i css sajt na temu po želji. Odlučili smo se za sajt koji omogućava put kroz Danteove krugove pakla.
 
