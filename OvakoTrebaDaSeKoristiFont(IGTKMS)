@@ -1,0 +1,9 @@
+<style>
+@font-face {
+	font-family: CustomFont;
+	src: url(GreatVictorian-Standard.otf);
+}
+* {
+	font-family: CustomFont;
+}
+</style>
