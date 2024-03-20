@@ -1,0 +1,15 @@
+@font-face {
+	font-family: CustomFont;
+	src: url(GreatVictorian-Standard.otf);
+}
+p {
+	font-family: CustomFont;
+	font-size: 28px;
+}
+h1 {
+	font-family: CustomFont;
+	font-size: 28px;
+}
+body {
+	background-color: #9E3821;
+}
