@@ -13,3 +13,12 @@ h1 {
 body {
 	background-color: #9E3821;
 }
+#prvi{
+	margin-left: 210;
+	margin-top: -290;
+}
+button.link { 
+  background:none; 
+  border:none; 
+  font-size: 37px;
+}
