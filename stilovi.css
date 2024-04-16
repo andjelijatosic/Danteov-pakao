@@ -14,7 +14,11 @@ body {
 	background-color: #9E3821;
 }
 #prvi{
-	margin-left: 210;
+	margin-left: 230;
+	margin-top: -290;
+}
+#drugi{
+	margin-left: 260;
 	margin-top: -290;
 }
 button.link { 
