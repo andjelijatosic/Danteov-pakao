@@ -21,6 +21,15 @@ body {
 	margin-left: 260;
 	margin-top: -290;
 }
+#treci{
+	margin-left: 270;
+	margin-top: -430;
+}
+#cetvrti{
+	margin-left: 270;
+	margin-right: 270;
+	margin-top: -420;
+}
 button.link { 
   background:none; 
   border:none; 
